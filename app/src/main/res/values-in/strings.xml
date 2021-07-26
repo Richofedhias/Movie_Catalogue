@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Katalog Film</string>
+    <string name="poster_film">Poster Film</string>
+    <string name="tab_text_1">Film</string>
+    <string name="tab_text_2">Acara TV</string>
+    <string name="release">Tanggal Rilis</string>
+    <string name="rating">Nilai</string>
+    <string name="language_settings">Pengaturan Bahasa</string>
+</resources>
